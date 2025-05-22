@@ -1,10 +1,9 @@
-# Sadie UI
-
+# s8n
 A specialized front-end for n8n that combines AI companionship features with powerful visual assistance for "vibe coding" and system interaction.
 
 ## Project Vision
 
-Sadie UI bridges the gap between advanced AI capabilities and user-friendly interfaces, designed specifically for tech enthusiasts who want to leverage AI without needing professional development experience.
+s8n bridges the gap between advanced AI capabilities and user-friendly interfaces, designed specifically for tech enthusiasts who want to leverage AI without needing professional development experience.
 
 ### Key Features
 
